@@ -8,4 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 # Requirements
-npm i cryptocompare fuzzy lodash moment styled-components highcharts highcharts-react-official
+npm i cryptocompare fuzzy lodash moment styled-components highcharts highcharts-react-official @emotion/is-prop-valid
